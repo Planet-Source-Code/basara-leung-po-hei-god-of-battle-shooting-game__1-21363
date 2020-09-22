@@ -1,0 +1,24 @@
+G.O.D. of Battle II 
+-------------------
+Time Delay set 30 as default,
+( The larger Delay the slower the speed )
+
+Arrows - Moving
+
+Numpad 1     - Beam
+
+Numpad 2     - Sword
+
+Numpad 3     - Missiles
+
+Numpad 4     - Fin Funnel
+
+Numpad 5     - Mega Cannon
+
+Numpad 6     - Healing
+
+Attack point and Speed increase with your Level 
+
+Best view at 800*600 16 bits High Color
+
+Basara  : www.gamemagichk.com
